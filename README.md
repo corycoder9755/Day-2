@@ -10,7 +10,7 @@ Email : no-reply@access-accsecurity.com
 
 \
 And Sending Mail address does not belong to Microsoft\
-![Sending Mail](images/Mail%20Header.png)
+![Sending Mail](images/Mail%20Header.png)\
 Email : sotrecognizd@gmail.com
 
 # Task 2
