@@ -31,7 +31,7 @@ After scanning the link in VirusTotal 4 engines flagged it as suspicious
 ![Engine result](images/scan%20result.png)
 
 # Task 4
-## Identify Content for Emergency
+## Checking Content for Panic Creation
 
 From the body of mail the urgent scenario is compromise of account
 ![image of urgency](images/urgency%20message.png)
